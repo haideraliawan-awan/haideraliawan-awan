@@ -34,7 +34,7 @@ Git • GitHub • VS Code • PyCharm
 
 ### 🧠 NeuroVision
 
-An AI-based facial micro-expression detection system developed as my final-year project.
+An AI-based facial micro-expression recognition system developed as my final-year project.
 
 The project combines computer vision, machine learning, and deep learning techniques to classify facial micro-expressions.
 
