@@ -9,7 +9,7 @@ I'm a Computer Science graduate interested in building practical software soluti
 - 🎓 BSCS Graduate
 - 🤖 Interested in Artificial Intelligence, Machine Learning, and Computer Vision
 - 💻 Interested in Software and Application Development
-- 🧠 Developed NeuroVision, an AI-based micro-expression detection system
+- 🧠 Developed NeuroVision, an AI-based facial micro-expression recognition system using machine learning and deep learning
 - 📱 Experience with Flutter application development
 - 🌱 Continuously learning and improving my development skills
 
